@@ -105,6 +105,7 @@ LineMut Build reconstructs lineage relationships using built-in functions. Pleas
 ## Contact
 
 * Ruiying Chen (陈睿颖), <chenruiying@genomics.cn>
+* Fengjie Sun (孙凤杰), <sunfengjie@genomics.cn>
 * Chao Qin (秦超), <qinchao@genomics.cn>
 * Hai-Xi Sun (孙海汐), <sunhaixi@genomics.cn>
 
